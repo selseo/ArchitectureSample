@@ -1,1 +1,8 @@
 /build
+.idea/*.xml
+.gradle/
+build/
+/*/build/
+*.apk
+*.ap_
+app/app.iml
